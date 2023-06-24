@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mdsheraj123
 - 👀 I’m interested in Multimedia
-- 🌱 I’m currently learning Linux Embedded
-- 💞️ I’m looking to collaborate on OpenGLES2 and Linux Embedded
+- 🌱 I’m currently learning AI
 - 📫 How to reach me mdsheraj123@gmail.com
 
 <!---
